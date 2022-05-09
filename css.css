@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(255, 249, 240) ;
+    color: aquamarine;
+}
+.titulo{
+    text-align: center;
+    padding: 15px;
+    margin: 5px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.regi{
+    background-color: rgb(80, 189, 171);
+    color: rgb(0, 0, 0);
+    font-size: 29px;
+    margin: 5px;
+    padding: 15px;
+    text-align: center;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ciu{
+    background-color: black;
+    color: rgb(80, 189, 171);
+    font-size: 29px;
+    margin: 5px;
+    padding: 15px;
+    text-align: center;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
